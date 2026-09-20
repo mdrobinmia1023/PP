@@ -1,0 +1,6 @@
+{
+  "name": "Chorcha Reader",
+  "description": "Cloud academic PDF reading and study platform with on-demand streaming, smart storage cache, progress tracking, and notes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
